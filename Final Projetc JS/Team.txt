@@ -1,0 +1,35 @@
+
+Fashion js Project
+
+##################################### Team Member #####################################
+
+1/Mina Samir Anwar
+
+2/Ehab Abou-Elnour Yanni
+
+3/Margret Youssef Kamal
+
+
+ ####################################    idea     #######################################
+
+E-Commerce display Product For fashion 
+
+
+#####################################   Tools      #######################################
+
+1/html
+
+2/css
+
+3/javaScript
+--BOM
+--DOM
+
+4/API Fake
+
+5/photoshop
+
+6/local-storage
+
+7/session-storage
+
